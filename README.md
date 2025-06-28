@@ -19,12 +19,7 @@
       </ul>
     </td>
   </tr>
-</table>
-
----
-
-<table>
-  <tr>
+   <tr>
     <td width="50%" valign="top">
       <h3>💼 What I'm Working On</h3>
       <ul>
