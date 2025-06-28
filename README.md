@@ -115,7 +115,12 @@
 ---
 
 ### 💬 Dev Quote of the Day
-> "Make it work. Make it right. Make it fast." – Kent Beck
+
+<div align="center" style="background-color:#1f1f1f; border-radius:10px; padding:20px">
+  <img src="https://img.icons8.com/ios-filled/30/ffffff/quote-left.png" />
+  <p style="font-size:18px; color:#fff"><em>Make it work. Make it right. Make it fast.</em></p>
+  <p align="right" style="color:#aaa">– Kent Beck</p>
+</div>
 
 ---
 
