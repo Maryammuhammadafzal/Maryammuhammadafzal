@@ -7,9 +7,9 @@
 
 ---
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="100%">
+    <td width="100%">
       <h3>🔥 My Dev Superpowers</h3>
       <ul>
         <li>⚛️ Pixel-perfect UI wizardry</li>
