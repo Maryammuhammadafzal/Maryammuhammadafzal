@@ -2,7 +2,7 @@
 <h3 align="center">Next.js Full Stack Developer | React | Tailwind | TypeScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Next.js+Full+Stack+Engineer+🚀;Shaping+brands+with+frontend+magic!" alt="Typing SVG" />
+  <img src="https://kinsta.com/wp-content/uploads/2021/11/what-is-a-full-stack-developer.png" alt="Typing SVG" />
 </p>
 
 ---
