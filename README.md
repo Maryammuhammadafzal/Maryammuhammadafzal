@@ -46,29 +46,6 @@
 
 ---
 
-### 🌐 Featured Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://banking-landing-page-delta.vercel.app/" target="_blank">
-        <img src="https://via.placeholder.com/300x180?text=Banking+Landing+Page" alt="Banking Landing Page"/><br/>
-        <strong>Banking Landing Page</strong>
-      </a><br/>
-      <a href="https://github.com/Maryammuhammadafzal/Chai_Website_Landing_Page">View Code</a>
-    </td>
-    <td align="center">
-      <a href="https://maryammuhammadafzal.github.io/Chai_Website_Landing_Page/" target="_blank">
-        <img src="https://via.placeholder.com/300x180?text=Chai+Website+Landing+Page" alt="Chai Website Landing Page"/><br/>
-        <strong>Chai Website Landing Page</strong>
-      </a><br/>
-      <a href="https://github.com/Maryammuhammadafzal/Chai_Website_Landing_Page">View Code</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 GitHub Stats & Activity
 
 <table align="center">
