@@ -1,5 +1,54 @@
-  <h1 align="center">Hi 👋, I'm Maryam Afzal</h1>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&amp;style=for-the-badge" alt=""></a> </p>
+<h1 align="center">Hi 👋, I'm Maryam Afzal</h1>
+<h3 align="center">Next.js Full Stack Developer | React | Tailwind | TypeScript</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Next.js+Full+Stack+Engineer+🚀;Shaping+brands+with+frontend+magic!" alt="Typing SVG" />
+</p>
+
+---
+
+### 🔥 My Dev Superpowers
+```ts
+const devStack = {
+  frontend: ["React", "Next.js", "Tailwind", "Shadcn UI"],
+  backend: ["Node.js", "APIs", "TypeScript"],
+  tools: ["Git", "Figma", "Vercel", "Postman"],
+  superpowers: [
+    "Pixel-perfect UI wizardry 🎨",
+    "Performance-focused development ⚡",
+    "Freelance-ready mindset 💼",
+    "Brand-focused designs that convert 🎯"
+  ]
+}
+
+
+💼 What I'm Working On
+✨ Building high-converting landing pages for SaaS & Fintech
+
+🚀 Leveling up with server-side architecture in Next.js
+
+🛠 Expanding my freelance services with custom dashboard UIs
+
+🌐 Featured Projects
+🔗 Live Preview	🛠 GitHub Code
+Banking Landing Page	View Repo
+Chai Website Landing Page	View Repo
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Maryammuhammadafzal&show_icons=true&theme=radical" alt="Maryam's GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryammuhammadafzal&theme=radical" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryammuhammadafzal&layout=compact&theme=radical" alt="Top Languages" /> </p>
+
+🌍 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/maryamafzaldev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a> <a href="mailto:maryammuhammadafzal@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a> <a href="https://banking-landing-page-delta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel" /></a> </p>
+
+💬 Dev Quote of the Day
+"Make it work. Make it right. Make it fast." – Kent Beck
+
+
+
+
+
+
+
 <table>
   <tr>
     <td valign="center">
