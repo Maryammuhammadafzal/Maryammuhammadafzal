@@ -6,7 +6,6 @@
 </p>
 
 ---
-
 <table>
   <tr>
     <td width="100%">
@@ -19,7 +18,12 @@
       </ul>
     </td>
   </tr>
-   <tr>
+</table>
+
+---
+
+<table width="100%">
+  <tr width="100%">
     <td width="50%" valign="top">
       <h3>💼 What I'm Working On</h3>
       <ul>
