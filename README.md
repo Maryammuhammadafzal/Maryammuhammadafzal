@@ -130,10 +130,10 @@
 
 ---
 
-### 👀 Visitor Counter
+### 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maryammuhammadafzal&label=Profile+Views&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Maryammuhammadafzal&label=Total+Visitors&color=7f52ff&style=flat&labelColor=1f1f1f" />
 </p>
 
 ---
